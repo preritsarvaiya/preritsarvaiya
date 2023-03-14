@@ -21,5 +21,5 @@ SKILLS
 <b>Backend:</b> Java Core / Java 11 / Java EE / Spring (MVC, Boot, Data) / Hibernate / SQL: MySQL / JUnit / Mockito= 
 
 <a href="https://github.com/merikbest">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=merikbest&theme=light&count_private=true&layout=compact&hide=kotlin" alt="merikbest most used languages" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=preritsarvaiya&theme=dark&count_private=true&layout=compact&hide=kotlin" alt="preritsarvaiya most used languages" />
 </a>
