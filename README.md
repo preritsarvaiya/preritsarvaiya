@@ -14,3 +14,12 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+### Hey there 👋, My name is Prerit! I'm Software Engineer
+
+SKILLS
+
+<b>Backend:</b> Java Core / Java 11 / Java EE / Spring (MVC, Boot, Data) / Hibernate / SQL: MySQL / JUnit / Mockito= 
+
+<a href="https://github.com/merikbest">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=merikbest&theme=light&count_private=true&layout=compact&hide=kotlin" alt="merikbest most used languages" />
+</a>
