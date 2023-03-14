@@ -1,6 +1,6 @@
-### Hi there 👋
+<!--### Hi there 👋
 
-<!--
+
 **preritsarvaiya/preritsarvaiya** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-### Hey there 👋, My name is Prerit! I'm Software Engineer
+### Hi there 👋, My name is Prerit! I'm Software Engineer
 
 SKILLS
 
