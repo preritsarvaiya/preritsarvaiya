@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 -->
 ### Hi there 👋, My name is Prerit! I'm Software Engineer
 
-SKILLS
+<b>SKILLS</b>
 
 <b>Backend:</b> Java Core / Java 11 / Java EE / Spring (MVC, Boot, Data) / Hibernate / SQL: MySQL / JUnit / Mockito= 
 
